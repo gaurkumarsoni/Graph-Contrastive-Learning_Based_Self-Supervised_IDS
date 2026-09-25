@@ -82,10 +82,6 @@ This project is compatible with standard network intrusion datasets formatted in
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/graph-contrastive-ids/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [![Issues](https://img.shields.io/github/issues/gaurkumarsoni/Graph-Contrastive-Learning_Based_Self-Supervised_IDS)](https://github.com/username/repository-name/issues).
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
